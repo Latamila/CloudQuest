@@ -25,3 +25,10 @@ Neste Lab, criei uma estimativa de custos para uma arquitetura Amazon EC2 variá
 
 
 ![image](https://github.com/Latamila/CloudQuest/blob/main/photos/Captura%20de%20tela%202026-03-13%20194551.png)
+
+Neste Lab, implementei o VPC Peering para permitir comunicação entre VPCs, permitindo que as instâncias EC2 de Marketing e Desencvolvedores acessem o servidor de Serviços Financeiros na VPC de Finanças. 
+- Configurei uma conexão de peering da VPC.
+- Certifiquei através da Session Manager, de que o tráfego seja roteado corretamente entre as VPCs emparelhadas.
+- O desafio maior foi configurar o emparelhamento entre as VPCs do desenvolvedor e do departamento financeiro, sozinha. Mas foi muito gratificante....
+  
+![image](https://github.com/Latamila/CloudQuest/blob/main/photos/Captura%20de%20tela%202026-03-14%20150418.png)
