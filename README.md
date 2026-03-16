@@ -32,3 +32,8 @@ Neste Lab, implementei o VPC Peering para permitir comunicação entre VPCs, per
 - O desafio maior foi configurar o emparelhamento entre as VPCs do desenvolvedor e do departamento financeiro, sozinha. Mas foi muito gratificante....
   
 ![image](https://github.com/Latamila/CloudQuest/blob/main/photos/Captura%20de%20tela%202026-03-14%20150418.png)
+
+Nesse laboratório, tive que criar um banco de dados e fazer uma réplica de leitura. 
+
+
+
