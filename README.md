@@ -37,5 +37,12 @@ Nesse laboratório, tive que criar um banco de dados e fazer uma réplica de lei
 
 ![image](https://github.com/Latamila/CloudQuest/blob/main/photos/Captura%20de%20tela%202026-03-15%20212033.png)
 
-![image](
+![image](https://github.com/Latamila/CloudQuest/blob/main/photos/Captura%20de%20tela%202026-03-15%20212354.png)
+
+![image](https://github.com/Latamila/CloudQuest/blob/main/photos/Captura%20de%20tela%202026-03-15%20213319.png)
+
+![image](https://github.com/Latamila/CloudQuest/blob/main/photos/Captura%20de%20tela%202026-03-15%20213331.png)
+
+
+
 
