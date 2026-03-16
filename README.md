@@ -35,5 +35,7 @@ Neste Lab, implementei o VPC Peering para permitir comunicação entre VPCs, per
 
 Nesse laboratório, tive que criar um banco de dados e fazer uma réplica de leitura. 
 
+![image](https://github.com/Latamila/CloudQuest/blob/main/photos/Captura%20de%20tela%202026-03-15%20212033.png)
 
+![image](
 
