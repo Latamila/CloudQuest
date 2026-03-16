@@ -33,7 +33,14 @@ Neste Lab, implementei o VPC Peering para permitir comunicação entre VPCs, per
   
 ![image](https://github.com/Latamila/CloudQuest/blob/main/photos/Captura%20de%20tela%202026-03-14%20150418.png)
 
-Nesse laboratório, tive que criar um banco de dados e fazer uma réplica de leitura. 
+Nesse laboratório: 
+- Migrei para o Amazon RDS para automatizar tarefas rotineras de administração de banco de dados;
+- Implementei Multi-AZ e réplicas de leitura para fornecer alta disponibilidade e melhorar o desempenho.
+- Explorei as ofertas de banco de dados da AWS.
+- Iniciei uma instância do Amazon RDS.
+- Configurei uma implantação Multi-AZ.
+- Configurei backup do Amazon RDS.
+- Criei uma réplica de leitura do banco de dados principal usando uma instância db.t3.xlarge. 
 
 ![image](https://github.com/Latamila/CloudQuest/blob/main/photos/Captura%20de%20tela%202026-03-15%20212033.png)
 
