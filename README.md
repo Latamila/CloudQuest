@@ -50,6 +50,6 @@ Nesse laboratório:
 
 ![image](https://github.com/Latamila/CloudQuest/blob/main/photos/Captura%20de%20tela%202026-03-15%20213331.png)
 
-
+Nesse laboratório, implementei o Amazon DynamoDB para armazenar e processar dados de comportamento do espectador, incluindo consumo de conteúdo e análise de dispositivo.
 
 
