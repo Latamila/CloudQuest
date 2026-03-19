@@ -14,6 +14,7 @@ Montei um endpoint EFS em uma terceira instância do EC2.
 
 Testei se os arquivos podem ser acessados por meio da instância do EC2. 
 
+- ZONAS DE DISPONIBILIDADE
 ![image](https://github.com/Latamila/CloudQuest/blob/main/EFS/Captura%20de%20tela%202026-03-18%20204814.png)
 
 ![image](https://github.com/Latamila/CloudQuest/blob/main/EFS/Captura%20de%20tela%202026-03-18%20204731.png)
