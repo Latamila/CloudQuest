@@ -13,3 +13,17 @@ Compartilhei arquivos entre as três instâncias do EC2.
 Montei um endpoint EFS em uma terceira instância do EC2. 
 
 Testei se os arquivos podem ser acessados por meio da instância do EC2. 
+
+![image](https://github.com/Latamila/CloudQuest/blob/main/EFS/Captura%20de%20tela%202026-03-18%20204814.png)
+
+![image](https://github.com/Latamila/CloudQuest/blob/main/EFS/Captura%20de%20tela%202026-03-18%20204731.png)
+
+![image](https://github.com/Latamila/CloudQuest/blob/main/EFS/Captura%20de%20tela%202026-03-18%20204705.png)
+
+![image](https://github.com/Latamila/CloudQuest/blob/main/EFS/Captura%20de%20tela%202026-03-18%20201118.png)
+
+![image](https://github.com/Latamila/CloudQuest/blob/main/EFS/Captura%20de%20tela%202026-03-18%20201106.png)
+
+![image](https://github.com/Latamila/CloudQuest/blob/main/EFS/Captura%20de%20tela%202026-03-18%20201118.png)
+
+
