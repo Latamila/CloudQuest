@@ -17,8 +17,11 @@ Testei se os arquivos podem ser acessados por meio da instância do EC2.
 - ZONAS DE DISPONIBILIDADE
 ![image](https://github.com/Latamila/CloudQuest/blob/main/EFS/Captura%20de%20tela%202026-03-18%20204814.png)
 
+- EC2 MONTADO COM 3 SERVIDORES DIFERENTES
+  
 ![image](https://github.com/Latamila/CloudQuest/blob/main/EFS/Captura%20de%20tela%202026-03-18%20204731.png)
 
+- SISTEMA DE ARQUIVOS NO EFS
 ![image](https://github.com/Latamila/CloudQuest/blob/main/EFS/Captura%20de%20tela%202026-03-18%20204705.png)
 
 -INSTALAÇÃO DE PACOTES AMAZON 
