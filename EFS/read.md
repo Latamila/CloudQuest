@@ -20,8 +20,6 @@ Testei se os arquivos podem ser acessados por meio da instância do EC2.
 
 ![image](https://github.com/Latamila/CloudQuest/blob/main/EFS/Captura%20de%20tela%202026-03-18%20204705.png)
 
-![image](https://github.com/Latamila/CloudQuest/blob/main/EFS/Captura%20de%20tela%202026-03-18%20201118.png)
-
 -INSTALAÇÃO DE PACOTES AMAZON 
 
 ![image](https://github.com/Latamila/CloudQuest/blob/main/EFS/Captura%20de%20tela%202026-03-18%20201118.png)
